@@ -8,6 +8,12 @@ Download the repo
 npm i --also=dev
 ```
 
+# Build
+
+```shell
+npm run build
+```
+
 # Watch the example
 
 Open with the browser **sample/index.html**
